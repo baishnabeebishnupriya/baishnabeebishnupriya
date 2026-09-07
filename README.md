@@ -1,7 +1,7 @@
 # Hi there, I'm Baishnabee Bishnupriya 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=baishnabeebishnupriya&color=blueviolet&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Building-brightgreen?style=flat-square&logo=appveyor" alt="Status" />
 </p>
 
