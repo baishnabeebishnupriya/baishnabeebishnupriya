@@ -1,11 +1,11 @@
 
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt=""/>
+<img src=""C:\Users\baish\Downloads\hero.svg"" width="100%" alt=""/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&size=30&duration=3000&pause=900&color=F5F2EB&center=true&vCenter=true&width=650&lines=baishnabee.exe+is+running...;welcome+to+my+little+corner+of+the+internet" alt="typing banner" />
+<img src="C:\Users\baish\Downloads\cat.svg" />
 
 <sub>a tiny digital room, somewhere on the internet, run by <strong>Baishnabee</strong></sub>
 
